@@ -1,4 +1,16 @@
+# Python
 myenv/
+.venv/
 **/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
 .env
+
+# OS
 .DS_Store
+
+# uv
+# uv.lock  # 如果不想提交锁文件（不推荐）

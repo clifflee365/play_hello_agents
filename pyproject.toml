@@ -1,0 +1,10 @@
+[project]
+name = "play-hello-agents"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "google-search-results>=2.4.2",
+    "openai>=2.8.1",
+    "python-dotenv>=1.2.1",
+]
